@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS_Fi site</title>
+    <link>http://.github.io/</link>
+    <description>Recent content on OS_Fi site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Apr 2021 11:47:11 +0500</lastBuildDate><atom:link href="http://.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://.github.io/post/gitlink/</link>
+      <pubDate>Sun, 18 Apr 2021 11:47:11 +0500</pubDate>
+      
+      <guid>http://.github.io/post/gitlink/</guid>
+      <description>I am currently studying Computer Science. I am a coder, web developer. I have interests in graphic designing as well. Cloud Computing was somehow field of my interest, but now I have lost the passion in this field and hence, I am much more inclined towards software developing. Here I have this website of mine for the same purpose. As far as my personal interests are concerned, I love reading articles, and that’s it!</description>
+    </item>
+    
+    <item>
+      <title>WORKING</title>
+      <link>http://.github.io/post/working/</link>
+      <pubDate>Sat, 17 Apr 2021 12:02:03 +0500</pubDate>
+      
+      <guid>http://.github.io/post/working/</guid>
+      <description>Initially x86 compatible OS was created which is referred to as MultiBoot 2 compliant. This OS had been primarily written in C language. Assembly was also used for some specifications. Docker had provided a building environment through built images. Dockerfile was generated. This file was involving all the items I needed to build an image. Then a container was opened through the running command of Docker on Windows, as I used windows for this purpose.</description>
+    </item>
+    
+    <item>
+      <title>About ERRORS</title>
+      <link>http://.github.io/post/errors/</link>
+      <pubDate>Sat, 17 Apr 2021 11:27:11 +0500</pubDate>
+      
+      <guid>http://.github.io/post/errors/</guid>
+      <description>Some of the errors encountered during recompilations are:
+ In the beginning, Docker file should be named as Dockerfile not DockerFile, or any other format, as I have faced this error. Then I have encountered an error that it was taking too long to install required files to build an image. It took about 2 hours but then ended up with an error for loading meta data for docker. The reason was poor internet connection.</description>
+    </item>
+    
+  </channel>
+</rss>
